@@ -1,15 +1,15 @@
 {
-    "name": "dawson/youtube",
-    "description": "Upload a video to YouTube with Laravel 5.",
+    "name": "zucler/laravel-youtube-upload",
+    "description": "Upload a video to YouTube with Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Joe Dawson",
-            "email": "hi@joedawson.me"
+            "name": "Maxim Pak",
+            "email": "zucler@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^7.0|^8.0",
         "illuminate/support": "^5.4|^6.0|^7.0|^8.0",
         "google/apiclient": "^2.2"
     },
