@@ -10,13 +10,13 @@
     ],
     "require": {
         "php": "^7.0|^8.0",
-        "illuminate/support": "^10.13",
         "google/apiclient": "^2.2"
     },
     "require-dev": {
         "orchestra/testbench": "^8.5",
         "phpunit/phpunit": "^10.2",
-        "phpunit/phpcov": "^9.0.0"
+        "phpunit/phpcov": "^9.0.0",
+        "illuminate/support": "^10.13"
     },
     "autoload": {
         "psr-4": {
